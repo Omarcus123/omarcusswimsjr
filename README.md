@@ -11,7 +11,7 @@
 </a>
 <br />
 <br />
-<a href="https://omarcus123.github.io/about-me-website/" alt="About Me Website">
+<a href="https://omarcus123.github.io/about-me-website/" target=" blank" src="About Me Website"> </a>
 <br />
 <br />
 
