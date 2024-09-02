@@ -67,7 +67,7 @@ I am currently working on more projects with C++. I also love Competing in Fight
 
 <br>
 
-<img align="center" src="https://x.com/65566b74-61e0-4c86-a877-68dd709c644c" 
+![OMARCUS!](C:\Users\lbrid\OneDrive - The University of Memphis\Desktop\LeetCode Problems\image.jpg)
 <br />
 <br />
 <br />
