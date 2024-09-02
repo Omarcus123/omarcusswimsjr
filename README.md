@@ -15,6 +15,8 @@
 <br />
 <br />
 
+![OMARCUS!](C:\Users\lbrid\Downloads\65566b74-61e0-4c86-a877-68dd709c644c.jpg)
+
 I have recently graduated with my Bachelors of Computer Science Degree at The University of Memphis. I am interested in gaining experience in the Software Development/Engineering field and am seeking opportunities to do so. Being a Computer Science major at the University of Memphis I have developed strong problem solving skills, collaboration and team work skills, and have used multiple languages such as C/C++, Python, SQL, and HTML.
 <br />
 
@@ -71,8 +73,6 @@ I am currently working on more projects with C++. I also love Competing in Fight
 <br />
 <br />
 <br />
-
-![OMARCUS!](C:\Users\lbrid\Downloads\65566b74-61e0-4c86-a877-68dd709c644c.jpg)
 
 **Happy Coding!** 😊
 
