@@ -66,13 +66,13 @@ I am currently working on more projects with C++. I also love Competing in Fight
     alt="Omarcus123" /></p>
 
 <br>
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ![OMARCUS!](C:\Users\lbrid\OneDrive - The University of Memphis\Desktop\LeetCode Problems\image.jpg)
-<br />
-<br />
-<br />
-<br />
-<br />
 
 **Happy Coding!** 😊
 
