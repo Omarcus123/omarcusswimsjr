@@ -72,7 +72,7 @@ I am currently working on more projects with C++. I also love Competing in Fight
 <br />
 <br />
 
-![OMARCUS!](C:\Users\lbrid\OneDrive - The University of Memphis\Desktop\LeetCode Problems\image.jpg)
+![OMARCUS!](C:\Users\lbrid\Downloads\65566b74-61e0-4c86-a877-68dd709c644c.jpg)
 
 **Happy Coding!** 😊
 
